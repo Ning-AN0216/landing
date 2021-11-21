@@ -1,0 +1,9 @@
+.btn-blue {
+	background-color: rgb(254, 244, 50);
+	color: rgb(0, 70, 134);
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+	line-height: 1.6
+}

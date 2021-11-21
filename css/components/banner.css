@@ -1,0 +1,13 @@
+.banner {
+	background-image: url("https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(webp)/origin-imgresizer.eurosport.com/2012/08/02/870378-20203978-2560-1440.jpg");
+	color: white;
+	padding: 200px 0px;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 60px;
+	opacity: 0.9;
+	margin-bottom: 40px;
+}
+
